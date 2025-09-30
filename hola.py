@@ -3,3 +3,4 @@ def saludar(nombre):
 
 saludar("Manu")
 
+saludar("Pedro")
